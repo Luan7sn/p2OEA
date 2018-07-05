@@ -1,1 +1,1 @@
-# p2OEA
+Este programa tem como propósito realizar consultas por UF, SIAFI, nome do município, Nis e nome do favorecido no arquivo bolsa.csv, basta compilá-lo, executá-lo e seguir as instruções dentro do próprio programa.
